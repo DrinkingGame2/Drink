@@ -1,0 +1,20 @@
+body {
+
+  
+}
+button{
+	height:30px;
+	
+	
+}
+.right {
+	float: right;
+}
+li{
+	height:30px;
+	font-size:20px;
+	margin-top:10px;
+}
+ul {
+	list-style-type: none;
+}
