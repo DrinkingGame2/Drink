@@ -59,16 +59,15 @@ app.controller("ClockController", function ($scope, $timeout) {
         'Beerru',
 
     ];
-    // $scope.colors = [
-    //      'red',
-    //     'blue',
-    //     'yellow'
+     $scope.colors = [
+          'red',
+         'blue',
+         'yellow'
 
-    // ];
-    $scope.colors = [
-        'yellow'
-
-    ];
+     ];
+   // $scope.colors = [
+   //     'yellow'
+   // ];
     $scope.currentUser = null;
     $scope.currentDuaUser = null;
     $scope.currentDrink = '';
